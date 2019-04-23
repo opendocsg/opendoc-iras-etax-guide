@@ -1,0 +1,15 @@
+title: IRAS e-Tax Guide
+remote_theme: opendocsg/opendoc-theme@v2
+timezone: Asia/Singapore
+repository: opendocsg/opendoc-template@v2
+plugins:
+  - jekyll-include-cache
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
+google_analytics:  #----> Optional, Google analytics ID
+styling_options:
+  primary_brand_color: '#22A7F0'  #----> Optional, theme color
+  logo_path: /assets/logo.png  #----> Optional, path to logo
+  opendoc_logo_path: /assets/images/logo-full.png
+  feedback_url:  #----> Optional, feedback url
