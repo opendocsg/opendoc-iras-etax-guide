@@ -18,7 +18,7 @@ Disclaimers: IRAS shall not be responsible or held accountable in any way for an
 © Inland Revenue Authority of Singapore
 All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, including photocopying and recording without the written permission of the copyright holder, application for which should be addressed to the publisher. Such written permission must also be obtained before any part of this publication is stored in a retrieval system of any nature.
 
-# 1. Aim
+## 1. Aim
 
 1.1 This e-Tax Guide provides details on the carry-back relief system.
 
@@ -26,7 +26,7 @@ All rights reserved. No part of this publication may be reproduced or transmitte
 allowances[^1] (“CA”) or unabsorbed trade losses from your trade,
 business, profession or vocation for the current year.
 
-# 2. At a glance
+## 2. At a glance
 
 2.1 The carry-back relief under section 37E of the Income Tax Act (“ITA”) is
 available to all persons carrying on a business, including sole-
@@ -57,7 +57,7 @@ his spouse[^3] for the same YA, if applicable.
 [^3] The spousal transfer scheme is only applicable up to YA 2015. For more information on the transitional arrangement, please refer to the e-Tax Guide on ‘Change to Assess the Income of a Husband and Wife as Separate Individuals’ issued on 26 May 2014.
 
 
-# 3 Glossary
+## 3 Glossary
 
 3.1 Assessable income
 
@@ -126,7 +126,7 @@ statutory income for that YA. Approved donations are donations
 qualifying for tax deduction and made to recipients under sections 37(3)
 (b), (c), (d), (e) or (f) of the ITA.
 
-# 4. Background
+## 4. Background
 
 4.1 Before YA 2006, a person may carry forward its unabsorbed CA and
 trade losses to future YAs if it satisfies certain conditions under the ITA.
@@ -136,7 +136,7 @@ trade losses to future YAs if it satisfies certain conditions under the ITA.
 cyclical downturn, a one year carry-back of QD was introduced from the
 YA 2006.
 
-# 5. Carry-back relief system
+## 5. Carry-back relief system
 
 5.1 Subject to conditions, the carry-back relief is available to you as a person
 who carries on a trade, business, profession or vocation. You may be :
@@ -148,7 +148,7 @@ who carries on a trade, business, profession or vocation. You may be :
 
 5.2 You may carry back the QD to the immediate preceding YA to be deducted from your assessable income of the immediate preceding YA in the order set out in paragraphs 6. 8 and 6. 9.
 
-# 6. General Conditions Governing the Carry-Back Relief
+## 6. General Conditions Governing the Carry-Back Relief
 
 6 .1 Your claim for carry-back relief is subject to the following general
 conditions:
@@ -285,7 +285,7 @@ Annex B provides examples on the order of deducting the QD carried back where th
 (i) one trade source; and
 <br/> (ii) one source of other income.
 
-# 7 Carry-back relief under specific scenarios
+## 7 Carry-back relief under specific scenarios
 
 **(a) Where income is taxed at concessionary rate**
 
@@ -346,7 +346,7 @@ restriction”, please refer to IRAS e-Tax Guide on “Income Tax Treatment of L
 Partnerships (Second Edition)” issued on 1 Mar 2014.
 
 
-# 8 Specific exclusions for carry-back relief
+## 8 Specific exclusions for carry-back relief
 
 8.1 You will not be able to carry back your QD if the QD arise from certain
 trade or activity carried on. They are:
