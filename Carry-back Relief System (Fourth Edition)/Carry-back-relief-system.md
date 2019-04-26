@@ -376,4 +376,13 @@ relief.
 
 [^5] Section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act [repealed in 2016]
 
-
+# Annexes
+<br/><a href="/assets/Carry back relief annexes/Annex_A.pdf" download>Annex A</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_B.pdf" download>Annex B</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_C.pdf" download>Annex C</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_D1.pdf" download>Annex D1</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_D2.pdf" download>Annex D2</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_E.pdf" download>Annex E</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_F.pdf" download>Annex F</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_G.pdf" download>Annex G</a>
+<br/><a href="/assets/Carry back relief annexes/Annex_H.pdf" download>Annex H</a>
