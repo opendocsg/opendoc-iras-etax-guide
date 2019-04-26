@@ -26,6 +26,8 @@ All rights reserved. No part of this publication may be reproduced or transmitte
 allowances[^1] (“CA”) or unabsorbed trade losses from your trade,
 business, profession or vocation for the current year.
 
+[^1] In this e-Tax guide, the term “capital allowances” refer to allowances given under sections 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 of the ITA.
+
 ## 2. At a glance
 
 2.1 The carry-back relief under section 37E of the Income Tax Act (“ITA”) is
@@ -47,14 +49,13 @@ $100,000.
 A company will have to satisfy the shareholding test as well.
 
 2.6 A company can elect to carry back its QD after transferring its loss items
-under the group relief system[^2] , if applicable.
+under the group relief system[^2], if applicable.
 
 2.7 An individual can elect to carry back his QD after transferring the QD to
 his spouse[^3] for the same YA, if applicable.
 
-[^1] In this e-Tax guide, the term “capital allowances” refer to allowances given under sections 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 of the ITA.
 [^2] Please refer to IRAS e-Tax Guide on ‘Group Relief System’ issued on 6 Sep 2011.
-[^3] The spousal transfer scheme is only applicable up to YA 2015. For more information on the transitional arrangement, please refer to the e-Tax Guide on ‘Change to Assess the Income of a Husband and Wife as Separate Individuals’ issued on 26 May 2014.
+<br/>[^3] The spousal transfer scheme is only applicable up to YA 2015. For more information on the transitional arrangement, please refer to the e-Tax Guide on ‘Change to Assess the Income of a Husband and Wife as Separate Individuals’ issued on 26 May 2014.
 
 
 ## 3 Glossary
@@ -81,12 +82,11 @@ Under section 2 of the ITA, a person includes a company, body of persons and a H
 
 For carry-back relief purposes, QD are the unabsorbed CA and unabsorbed trade losses for the current year.
 
-3. 6 Relevant deductions
+3.6 Relevant deductions
 
 A limited partner’s share of CA and trade losses from a limited liability partnership (“LLP”) or limited partnership (“LP”) allowed against the partner’s income from other sources.
 
-
-3. 7 Same business test
+3.7 Same business test
 
 This test determines if a person continues to carry on the same trade,
 business, profession or vocation for which capital allowances are
@@ -94,7 +94,7 @@ granted when carrying forward or back the unabsorbed capital
 allowances. The test is satisfied if the same trade, business, profession
 or vocation is continued.
 
-3. 8 Shareholding test
+3.8 Shareholding test
 
 This test computes the percentage of the shareholdings of a company (or its ultimate parent company) that is held by the same persons as at the relevant dates. If the percentage is 50% or more, there is no substantial change in the shareholders and the company is said to have satisfied the shareholding test.
 
@@ -260,14 +260,12 @@ your assessable income for YA 2017 is computed as follows:
 
 6.8 The QD carried back will be deducted from your assessable income of
 the immediate preceding YA in the following order:
-
 <br/>(a) current year unabsorbed CA, if any; and then
-<br/> (b) current year trade loss, if any.
+<br/>(b) current year trade loss, if any.
 
 6.9 If you have other income in addition to trade income, the unabsorbed CA
 and trade losses will be deducted against the other sources of income in
 the order as follows:
-
 
 <br/>1 st : Income from same trade
 <br/>2 nd : Income from other trade (proportionately if there is more than one other trade, business, profession or vocation)
@@ -283,7 +281,7 @@ on a proportionate basis.
 Annex B provides examples on the order of deducting the QD carried back where there is more than:
 
 (i) one trade source; and
-<br/> (ii) one source of other income.
+<br/>(ii) one source of other income.
 
 ## 7 Carry-back relief under specific scenarios
 
@@ -299,11 +297,9 @@ income chargeable under different tax rates.
 <br/>where 
 <br/>A = any amount deducted against assessable income subject to tax at the normal corporate tax rate (currently 17%);
 <br/>B = any amount deducted against assessable income subject to tax at any concessionary rate of tax divided by the adjustment factor for that concessionary rate of tax;
-
 <br/>and the adjustment factor = Normal corporate tax divided by the Concessionary tax rate
 
 7.3 Annex C is an example on the carry-back of QD for a company deriving income that is subject to tax at a concessionary rate.
-
 
 Annexes D1 and D2 give more examples on the carry-back of QD where there is income from more than one other trade, or more than one other
 source of income.
@@ -335,13 +331,13 @@ preceding YA would have to be revised accordingly based on your revised earned i
 
 **(e) Where the relief is for limited partners of an LLP or a LP**
 
-7.9 If you are a limited partner of an LLP or a LP, your relevant deductions, together with all of your relevant deductions allowed in all past YAs, must not exceed your contributed capital as at the end of the basis period relating to that YA. This restriction is known as the “relevant deduction restriction^4 ”. Any excess of the relevant deductions over your contributed capital may then (subject to conditions) be carried forward to be deducted against your future share of income from the same LLP or LP.
+7.9 If you are a limited partner of an LLP or a LP, your relevant deductions, together with all of your relevant deductions allowed in all past YAs, must not exceed your contributed capital as at the end of the basis period relating to that YA. This restriction is known as the “relevant deduction restriction[^4]”. Any excess of the relevant deductions over your contributed capital may then (subject to conditions) be carried forward to be deducted against your future share of income from the same LLP or LP.
 
 7.10 The relevant deduction restriction also applies for the purpose of carry-back relief. Your capital contribution as at the end of the basis period relating to the YA that the QD arise will be used for the relevant deduction restriction. This is because your QD to be carried back relate to that YA and not the immediate preceding YA.
 
 7.11 Annex H shows how the carry back deduction and restriction of the qualifying deductions are applied to partners of an LLP.
 
-(^4) For an explanation of what is “contributed capital” and more details of the relevant deduction
+[^4] For an explanation of what is “contributed capital” and more details of the relevant deduction
 restriction”, please refer to IRAS e-Tax Guide on “Income Tax Treatment of Limited Liability
 Partnerships (Second Edition)” issued on 1 Mar 2014.
 
@@ -378,7 +374,6 @@ scheme (EII) may incur a capital loss upon:
 As the loss is capital in nature, it does not qualify for carry- back
 relief.
 
-[^5] Section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act [repealed
-in 2016]
+[^5] Section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act [repealed in 2016]
 
 
