@@ -376,6 +376,170 @@ relief.
 
 [^5] Section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act [repealed in 2016]
 
+# 9 Administrative requirements for the carry-back relief
+
+9.1 If you wish to carry back the QD of any current YA to the immediate
+preceding YA, you must make an election within the timeframe stated
+below:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-s268{text-align:left}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-s268">Companies</th>
+    <th class="tg-s268" rowspan="4">No later than the time of filing the income tax return for the current YA</th>
+  </tr>
+  <tr>
+    <td class="tg-s268">Bodies of persons</td>
+  </tr>
+  <tr>
+    <td class="tg-s268">Trustees</td>
+  </tr>
+  <tr>
+    <td class="tg-s268">Executors</td>
+  </tr>
+  <tr>
+    <td class="tg-s268">Individuals</td>
+    <td class="tg-s268">No later than 30 days from the date of service of the notice of assessment for the current YA on him</td>
+  </tr>
+</table>
+
+9.2 The election, once made, is irrevocable.
+
+**(i) Companies making the election**
+
+9.3 Companies should indicate the election in their Income Tax Return (Form C) and the tax computation when filing their Form C for the relevant YA. Companies that wish to make the election cannot use FormC-S.
+
+**(ii) Individuals or partners of a partnership/LLP/LP making the election**
+
+9.4 An individual taxpayer or the partner of a partnership/LLP/LP making the election is required to complete and sign an prescribed election form^6. Apart from the election form, you have to submit the documents set out in the following tables:
+
+**Election made before or at the time of filing the income tax return**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-uys7{border-color:inherit;text-align:center}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-xldj" rowspan="2"></th>
+    <th class="tg-uys7" colspan="2">Tax computation for:</th>
+    <th class="tg-xldj" rowspan="2">Certified financial accounts for the basis period relating to current YA</th>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Immediate preceding YA</td>
+    <td class="tg-xldj">&nbsp;&nbsp;&nbsp;Current YA&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Sole proprietors: Revenue<br>≥ $500,000</td>
+    <td class="tg-uys7">√</td>
+    <td class="tg-uys7">√</td>
+    <td class="tg-uys7">√</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj">Sole proprietors: Revenue &lt; $500,000</td>
+    <td class="tg-uys7" colspan="3">Not required, but to indicate in the election form, the<br>amount of QD to be carried back (including his share of<br>the QD from a partnership/LLP/LP.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Partners of businesses,<br>regardless of the turnover</td>
+    <td class="tg-baqh" colspan="3">Not required, but to indicate in the election form, your<br>share of the QD to be carried back.</td>
+  </tr>
+</table>
+
+
+9.5 If you are a partner of a partnership/LLP/LP and have elected to carry back your share of the QD from the partnership/LLP/LP, you need not submit the financial accounts of the trade, business, profession or vocation carried on through the partnership/LLP/LP. However, you must, at the time of making the election, ensure that the precedent partner of the partnership/LLP/LP has already submitted to the CIT the following documents:
+
+[^6] The prescribed election form is available at [http://www.iras.gov.sg.](http://www.iras.gov.sg.)
+
+<br/>(a) the certified statement of financial accounts; and
+<br/>(b) the tax computation showing your share of CA/loss from the
+partnership/LLP/LP.
+
+9.6 The precedent partner may submit a set of provisional accounts and tax computation if the certified statement of financial accounts and tax computation are not finalised when the partner makes the election.
+
+9.7 The CIT may treat the election as invalid if the precedent partner does not comply with the requirements.
+
+**Election made after filing the income tax return**
+
+9.8 As an individual you may elect for the carry-back relief after filing your income tax return for the relevant current YA (but no later than 30 days from the date of service of the notice of assessment for the current YA on you). You only need to submit the completed and signed prescribed election form.
+
+**Bodies of persons/trustees/executors making the election**
+
+9.9 Bodies of persons/trustees/executors may elect for the carry-back relief by submitting the completed and signed prescribed election form, together with a provisional/finalised set of tax computation and financial accounts for the current YA and the revised tax computation for the immediate preceding YA (no later than the time of filing the income tax return for the current YA).
+
+# 10 Refund of excess tax
+
+10.1 Where there is tax to be refunded from the carry-back of the QD, the CIT will refund the amount within 3 months from the date you (or together with your spouse) make the election. If there is any tax owing for the other tax types (e.g. property tax), the amount of tax to be refunded to you is the net amount after deducting your other outstanding tax liabilities.
+
+# 11 Time limit for CIT to raise additional assessments
+
+11.1 If the CIT discovers that the amount of QD carried back and deducted against your assessable income of any immediate preceding YA was excessive, the CIT would make an assessment on the amount which should be charged to tax within 5 years after the end of that YA.
+
+
+11.2 To illustrate:
+
+**Example 1**
+
+You have carried back your trade loss of $ 8 0,000 for YA 20 18 to be deducted against your assessable income for YA 2017. The trade loss is subsequently reduced to $57,000. CIT may:
+
+<br/>(a) revise the assessment for YA 20 18 (to reduce the amount of the loss); and
+<br/>(b) raise an additional assessment for YA 2017 (in respect of $23, over allowed) by 31 Dec 2022.
+
+# 12 Contact information
+
+12.1 If you have any enquiries or need clarification on this Guide, please call:
+
+<br/>1800 - 3568 300 (Individual Income Tax)
+<br/>1800 - 3568 622 (Corporate Income Tax)
+<br/>6351 3883 (Taxation of Body of Persons)
+<br/>6351 3363 (Taxation of Trust/Estate)
+
+# 13 Updates and amendments
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-fymr">Date of<br>amendment</th>
+    <th class="tg-fymr">Amendments made</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">09 Jul 2012</td>
+    <td class="tg-0pky">Paragraph 6.7 is inserted to clarify the exchange rate that a company should use to compute the cap of $100,000 for the qualifying deductions if its functional currency is non S$.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">26 May 2014</td>
+    <td class="tg-0pky">Paragraph 7.9 amended to incorporate the Budget 2014 tax changes in relation to the removal of spousal transfer scheme.,The subsequent paragraphs were renumbered.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">2 Apr 2018</td>
+    <td class="tg-0pky">The main amendments include:<br>a) Deletion of paragraph 1.3 and amendment of paragraph 4.2 due to the expiry of the Enhanced Carry-Back Relief System.<br>b) Deletion of paragraphs 7.6 to 7.8 and amendment of paragraph 7.9 to update the Spousal Transfer<br>Scheme.<br>c) Revisions to paragraphs 9.3-9.9 on the administrative requirements in making the election. The revisions to administrative requirements for companies take effect from YA 2010.<br>d) Removal of the time limit of 7 years for YA 2007 and before in paragraph 11.<br>e) Updating of examples and the Annexes.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">9 Apr 2019</td>
+    <td class="tg-0pky">Paragraph 9.3 amended to incorporate changes to the administrative requirements in making the election.</td>
+  </tr>
+</table>
+
 # Annexes
 <br/><a href="/assets/Carry back relief annexes/Annex_A.pdf" download>Annex A</a>
 <br/><a href="/assets/Carry back relief annexes/Annex_B.pdf" download>Annex B</a>
