@@ -1,6 +1,5 @@
 title: IRAS e-Tax Guide
 remote_theme: opendocsg/opendoc-theme@v2
-timezone: Asia/Singapore
 repository: opendocsg/opendoc-iras-etax-guide
 plugins:
   - jekyll-include-cache
