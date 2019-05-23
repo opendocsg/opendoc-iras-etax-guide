@@ -14,7 +14,7 @@ Contents of this e-Tax Guide, or errors or omissions in the transmission of the 
 All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, including photocopying and recording without the written permission of the copyright holder, application for which should be addressed to the publisher. Such written permission must also be obtained before any part of this publication is stored in a retrieval system of any nature.
 ```
 
-## 1. Aim
+# 1. Aim
 
 1.1 This e-Tax guide provides taxpayers with guidance on
 
@@ -26,7 +26,7 @@ All rights reserved. No part of this publication may be reproduced or transmitte
 1.2 This e-Tax guide is relevant to any Singapore MNE group with international
 operations and annual group revenue of at least S$1, 125 million.
 
-## 2. Glossary
+# 2. Glossary
 
 2.1 The following terms are used in this Guide:
 
@@ -76,7 +76,7 @@ operations and annual group revenue of at least S$1, 125 million.
   </tr>
 </table>
 
-## 3. Introduction to CbCR
+# 3. Introduction to CbCR
 
 3.1 In the Final Report on BEPS Action 13 “Transfer Pricing Documentation and Country-by-Country Reporting” published by the OECD in October 2015, a new form of reporting namely CbCR would form part of the transfer pricing documentation to be maintained by MNEs.
 
@@ -99,7 +99,7 @@ authorities of those jurisdictions if there is an agreement with the relevant ta
 
 3.7 Any information that is obtained by a tax authority from CbC Reports obtained through automatic exchange of information (“AEOI”) is strictly confidential.
 
-## 4. Transfer Pricing Documentation
+# 4. Transfer Pricing Documentation
 
 4.1 IRAS’ Transfer Pricing Guidelines require taxpayers to organise their transfer pricing documentation at Group level and Entity level.
 
@@ -115,7 +115,7 @@ the location of economic activity among tax jurisdictions in which the reporting
 4.4 A CbC Report will be helpful for high-level transfer pricing risk assessment purposes. It may also be used by tax authorities in evaluating other BEPS
 related risks and where appropriate for economic and statistical analysis. The information in the CbC Report should not be used as a substitute for a detailed transfer pricing analysis of individual transactions and pricesbased on a full functional analysis and a full comparability analysis. The information in the CbC Report on its own does not constitute conclusive evidence that transfer prices are or are not appropriate. It should not be used by tax administrations to propose transfer pricing adjustments.
 
-## 5. Format of CbC Reports
+# 5. Format of CbC Reports
 
 5.1 CbC Reports must be submitted in accordance with the template in the Annex to this Guide.
 
@@ -240,14 +240,13 @@ are resident for tax purposes in the relevant tax jurisdiction. As stated above 
 be noted (e.g. XYZ Corp – Tax Jurisdiction A PE). With regard to Constituent Entities deemed not to be resident in any tax jurisdiction for tax purposes, a separate line should be included, with a further breakdown for each entity (e.g. partnership with no tax jurisdiction of tax residence).
 
 
-
 *Tax Jurisdiction of Organisation or Incorporation if Different from Tax Jurisdiction of Residence*
 The Reporting MNE should report the name of the tax jurisdiction under whose laws the Constituent Entity of the MNE is organised or incorporated if it is different from the tax jurisdiction of residence.
 
 *Main Business Activity(ies)*
 The Reporting MNE should determine the nature of the main business activity(ies) carried out by the Constituent Entity in the relevant tax jurisdiction, by ticking one or more of the appropriate boxes.
 
-## 6. Submission of CbC Reports
+# 6. Submission of CbC Reports
 
 6.1 IRAS is currently developing e-services for receiving and sending CbC
 Reports with a sufficient level of encryption.
@@ -260,12 +259,12 @@ Reports with a sufficient level of encryption.
 
 6.4 In the event that the taxpayers did not submit the CbC report, they may be penalized under Section 105M of the ITA.
 
-## 7. Contact Information
+# 7. Contact Information
 
 7.1 If you have any enquiries or need clarification on this Guide, please email ct_transfer_pricing@iras.gov.sg.
 
 
-## 8. Frequently Asked Questions
+# 8. Frequently Asked Questions
 
 **Filing Requirement**
 
@@ -539,6 +538,6 @@ We will continue to monitor the situation.
   </tr>
 </table>
 
-## Attachment
+# Attachment
 
 Annex A
