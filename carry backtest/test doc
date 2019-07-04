@@ -1,0 +1,2857 @@
+# IRAS e-Tax Guide
+
+## CARRY-BACK RELIEF SYSTEM
+
+## (Fourth Edition)
+
+
+#### Published by
+
+#### Inland Revenue Authority of Singapore
+
+#### Published on 9 Apr 201 9
+
+#### First edition on 09 Jul 2012
+
+#### Second edition on 26 May 2014
+
+#### Third edition on 2 Apr 2018
+
+#### Fourth edition on 9 Apr 2019
+
+```
+Disclaimers: IRAS shall not be responsible or held accountable in any way for any damage, loss or
+expense whatsoever, arising directly or indirectly from any inaccuracy or incompleteness in the
+Contents of this e-Tax Guide, or errors or omissions in the transmission of the Contents. IRAS shall not
+be responsible or held accountable in any way for any decision made or action taken by you or any
+third party in reliance upon the Contents in this e-Tax Guide. This information aims to provide a better
+general understanding of taxpayers’ tax obligations and is not intended to comprehensively address
+all possible tax issues that may arise. While every effort has been made to ensure that this information
+is consistent with existing law and practice, should there be any changes, IRAS reserves the right to
+vary its position accordingly.
+```
+```
+© Inland Revenue Authority of Singapore
+```
+```
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any
+means, including photocopying and recording without the written permission of the copyright holder,
+application for which should be addressed to the publisher. Such written permission must also be
+obtained before any part of this publication is stored in a retrieval system of any nature.
+```
+
+### Table of Contents
+
+### Page
+
+### 1) Aim
+
+### 1
+
+### 2) At a glance
+
+### 1
+
+### 3) Glossary
+
+### 2
+
+### 4) Background
+
+### 3
+
+### 5) Carry-back relief system
+
+### 4
+
+### 6) General Conditions Governing the Carry-Back Relief
+
+### (a) Same business test
+
+### (b) Shareholding test
+
+### (c) Amount of Qualifying deductions to be carried back
+
+### (d) Order of Deduction
+
+### 4
+
+### 4
+
+### 4
+
+### 5
+
+### 6
+
+### 7) Carry-back relief under specific scenarios
+
+### (a) Where income is taxed at concessionary rate
+
+### (b) Where group relief is claimed
+
+### (c) Where transfer to spouse is made
+
+### (d) Where the relief reduces personal reliefs
+
+### (e) Where the relief is for limited partners of an LLP or a
+
+### LP
+
+### 8) Specific exclusions for carry-back relief
+
+### 7 7 7 8 8 8 9
+
+### 9) Administrative requirements for the carry-back relief
+
+### 10
+
+### 10) Refund of excess tax
+
+### 11) Time limit for CIT to raise additional assessments
+
+### 12) Contact information
+
+### 13) Updates and amendments
+
+### 11
+
+### 11
+
+### 12
+
+### 13
+
+
+### Annex A – Illustration of how the amount of qualifying deductions
+
+### to be carried back is determined
+
+### Annex B – Illustration of carry-back of qualifying deductions and
+
+### order of deduction where there is more than one trade
+
+### 14
+
+### 16
+
+### Annex C – Carry back of qualifying deductions for a company
+
+### deriving income subject to tax at a concessionary rate
+
+### Annex D1 – Illustration of carry-back of qualifying deductions and
+
+### order of deduction where there is more than one trade subject to
+
+### tax at different tax rates..........................................................
+
+### Annex D2 - Illustration of carry-back of qualifying deduction and
+
+### order of deduction where there is one source of income subject to
+
+### tax at different tax rate and one other source of income
+
+### Annex E – Illustration on how carry-back relief is effected where
+
+### transfer under group relief system is made
+
+### 18
+
+### 20
+
+### 22
+
+### 24
+
+### Annex F – Diagram showing order of deduction for companies at
+
+### a glance
+
+### Annex G - Illustration on how carry-back relief is effected for an
+
+### individual and his spouse where transfer under section 37D is
+
+### made
+
+### Annex H – Illustration of deduction and restriction of capital
+
+### allowances and trade losses of partners of an LLP
+
+### 26
+
+### 27
+
+### 32
+
+
+### 1 Aim
+
+### 1.1 This e-Tax Guide provides details on the carry-back relief system.
+
+### 1.2 The e-Tax Guide is relevant to you if you have unabsorbed capital
+
+### allowances^1 (“CA”) or unabsorbed trade losses from your trade,
+
+### business, profession or vocation for the current year.
+
+### 2 At a glance
+
+### 2.1 The carry-back relief under section 37E of the Income Tax Act (“ITA”) is
+
+### available to all persons carrying on a business, including sole-
+
+### proprietorships and partnerships. The relief will be given only if a claim
+
+### is made for it.
+
+### 2.2 Under the system, a person may carry back its current year qualifying
+
+### deductions (“QD”) and deduct them against its assessable income of the
+
+## immediate preceding YA.
+
+### 2.3 The maximum amount of QD that can be carried back is capped at
+
+### $100,000.
+
+### 2.4 The QD will be deducted in the following order:
+
+### (i) current year’s unabsorbed CA, if any,
+
+### (ii) current year’s trade losses, if any.
+
+### 2.5 The carry-back of unabsorbed CA is subject to the “same business” test.
+
+### A company will have to satisfy the shareholding test as well.
+
+### 2.6 A company can elect to carry back its QD after transferring its loss items
+
+### under the group relief system^2 , if applicable.
+
+### 2.7 An individual can elect to carry back his QD after transferring the QD to
+
+### his spouse^3 for the same YA, if applicable.
+
+(^1) In this e-Tax guide, the term “capital allowances” refer to allowances given under sections
+16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 of the ITA.
+(^2) Please refer to IRAS e-Tax Guide on ‘Group Relief System’ issued on 6 Sep 2011.
+(^3) The spousal transfer scheme is only applicable up to YA 2015. For more information on the
+transitional arrangement, please refer to the e-Tax Guide on ‘Change to Assess the Income
+of a Husband and Wife as Separate Individuals’ issued on 26 May 2014.
+
+
+### 3 Glossary
+
+### 3.1 Assessable income
+
+### Assessable income of a company refers to its income from all sources
+
+### after deducting CA, trade losses, approved donations (including those
+
+### transferred from related companies under the group relief system) and
+
+### other relevant deductions like incremental research and development
+
+### expenses or investment allowances.
+
+### Assessable income of an individual refers to the individual’s income from
+
+### all sources after deducting CA, losses, and approved donations
+
+### (including those transferred from spouse).
+
+### 3.2 Immediate Preceding YA
+
+### The immediate preceding YA refers to the YA immediately before the YA
+
+### in which the person has trade losses or capital allowances available for
+
+### carry back. For example, if the person incurred trade losses in year 201 7
+
+### or is given capital allowances for YA 2018, the immediate preceding YA
+
+### would be YA 201 7.
+
+### 3.3 Loss items
+
+### For group relief purposes, loss items refer to the unabsorbed CA, trade
+
+### losses and donations for the current year that can be transferred by a
+
+### company (“transferor company”) to another company of the group
+
+### (“claimant company”).
+
+### 3.4 Person
+
+### Under section 2 of the ITA, a person includes a company, body of
+
+### persons and a Hindu Joint Family.
+
+### 3.5 Qualifying deductions (QD)
+
+### For carry-back relief purposes, QD are the unabsorbed CA and
+
+### unabsorbed trade losses for the current year.
+
+### 3. 6 Relevant deductions
+
+### A limited partner’s share of CA and trade losses from a limited liability
+
+### partnership (“LLP”) or limited partnership (“LP”) allowed against the
+
+### partner’s income from other sources.
+
+
+### 3. 7 Same business test
+
+### This test determines if a person continues to carry on the same trade,
+
+### business, profession or vocation for which capital allowances are
+
+### granted when carrying forward or back the unabsorbed capital
+
+### allowances. The test is satisfied if the same trade, business, profession
+
+### or vocation is continued.
+
+### 3. 8 Shareholding test
+
+### This test computes the percentage of the shareholdings of a company
+
+### (or its ultimate parent company) that is held by the same persons as at
+
+### the relevant dates. If the percentage is 50% or more, there is no
+
+### substantial change in the shareholders and the company is said to have
+
+### satisfied the shareholding test.
+
+### Relevant dates for unabsorbed CA:
+
+### First day of the YA in which the capital allowances were granted and the
+
+### last day of the immediate preceding YA in which the capital allowances
+
+### are to be deducted.
+
+### Relevant dates for unabsorbed trade losses:
+
+### First day of the year in which the trade losses were incurred and last day
+
+### of the immediate preceding YA in which the trade losses are to be
+
+### deducted.
+
+### 3.9 Unabsorbed capital allowances (CA)
+
+### The capital allowances claimed by a person (under section 16, 17, 18B,
+
+### 18C, 19, 19A, 19B, 19C, 19D or 20 of the ITA) for a YA that exceed the
+
+### person’s aggregate taxable income for that YA.
+
+### 3.10 Unabsorbed trade losses
+
+### The trade losses incurred by a person for a YA that exceed the person’s
+
+### income from all sources for that YA.
+
+### 3.11 Unabsorbed donations
+
+### The approved donations made by a person in a YA that exceeds its
+
+### statutory income for that YA. Approved donations are donations
+
+### qualifying for tax deduction and made to recipients under sections 37(3)
+
+### (b), (c), (d), (e) or (f) of the ITA.
+
+### 4 Background
+
+### 4.1 Before YA 2006, a person may carry forward its unabsorbed CA and
+
+### trade losses to future YAs if it satisfies certain conditions under the ITA.
+
+
+### 4.2 To help small businesses cope with cash-flow problems, especially in a
+
+### cyclical downturn, a one year carry-back of QD was introduced from the
+
+### YA 2006.
+
+### 5 Carry-back relief system
+
+### 5.1 Subject to conditions, the carry-back relief is available to you as a person
+
+### who carries on a trade, business, profession or vocation. You may be :
+
+### (a) a company;
+
+### (b) an individual sole-proprietor or partner of a partnership, including
+
+### an LLP and a LP;
+
+### (c) a body of persons, such as clubs and associations; and
+
+### (d) a trustee of trusts or executor of estates.
+
+### 5.2 You may carry back the QD to the immediate preceding YA to be
+
+### deducted from your assessable income of the immediate preceding YA
+
+### in the order set out in paragraphs 6. 8 and 6. 9.
+
+### 6 General Conditions Governing the Carry-Back Relief
+
+### 6 .1 Your claim for carry-back relief is subject to the following general
+
+### conditions:
+
+### (a) Same business test
+
+### 6.2 To qualify for carry-back relief, you must satisfy the same business test.
+
+### This means that you will not be able to carry back the unabsorbed CA
+
+### granted for the first basis period that you commenced a trade, business
+
+### or profession. However, you can carry back the trade loss incurred for
+
+### that period as the same business test does not apply to trade losses.
+
+### To illustrate:
+
+### During the basis period for YA 2018 that you commenced a business,
+
+### you incurred a trade loss of $50,000 and had unabsorbed CA of $20,000.
+
+### You could carry back the trade loss of $50,000 (but not the unabsorbed
+
+### CA of $20,000) to be deducted against your assessable income for YA
+
+### 2017.
+
+### (b) Shareholding test
+
+### 6.3 If you are a company, in addition to the same business test, you have to
+
+### satisfy the shareholding test in order to carry back your QD.
+
+
+### To illustrate:
+
+### For YA 2018, your accounting period is 1 Jan 20 17 to 31 Dec 2017. You
+
+### can carry back your QD for YA 20 18 to YA 2017 if your shareholders as
+
+### at the following dates are substantially the same:
+
+```
+Carry
+```
+- back of
+    Unabsorbed
+
+```
+CA
+```
+(^) Dates for comparison
+
+### 1 Jan 20 18
+
+### &
+
+### 31 Dec
+
+### 2017
+
+### 1 st day of the YA in which the CA arose; &
+
+### Last day of the YA in which the CA is utilised
+
+```
+Trade loss
+```
+(^) 1 Jan 20 17
+
+### &
+
+### 31 Dec
+
+### 2017
+
+### 1 st day of the year in which the loss was
+
+### incurred; &
+
+### Last day of the YA in which the loss is utilised
+
+### 6.4 The Comptroller of Income Tax (“CIT”) may waive the shareholding test
+
+### if it is satisfied that the substantial change in the shareholders is not for
+
+### the purpose of deriving any tax benefit or obtaining any tax advantage.
+
+### If the CIT grants the waiver, you can only deduct the QD against the
+
+### income from the same trade or business for which the CA was granted
+
+### or to which the trade loss relates.
+
+### (c) Amount of Qualifying deductions to be carried back
+
+### 6.5 The amount of QD that you can carry back is restricted to the lowest of:
+
+### (i) your actual amount of the QD;
+
+### (ii) your assessable income of the immediate preceding YA; and
+
+### (iii) $100,000.
+
+### 6.6 The excess that is not carried back can be carried forward for deduction
+
+### against your future taxable income if you satisfy the same business test
+
+### (and shareholding test if you are a company).
+
+### To illustrate:
+
+### Your assessable income for YA 2017
+
+### = $60,
+
+### Your QD for YA 2018 = $72,
+
+### Amount of QD you can carry back to YA 2017 = $60,
+
+### Excess that you can carry forward for deduction
+
+### against future taxable income
+
+### = $12,
+
+### Annex A shows how to determine the amount of QD to be carried back.
+
+
+### 6.7 If your functional currency is not S$, the exchange rate to use for the
+
+### purpose of computing the cap of $100,000 is based on the exchange
+
+### rate of the year in which the loss arose.
+
+### To illustrate:
+
+### Your functional currency is the US$.
+
+### The exchange rate is 1.3833 for YA 2017 and 1.3749 for YA 2018.
+
+### You incurred a trade loss of US$150,000 for the YA 2018.
+
+### The amount of trade loss that you can carry back for deduction against
+
+### your assessable income for YA 2017 is computed as follows:
+
+### YA 2018
+
+### US$
+
+### Adjusted trade loss before carry back (150,000)
+
+### Less: Loss carry back to YA 2017 72,733*
+
+### Unabsorbed loss c/f (77,267)
+
+### * S$100,000 / 1.
+
+### YA 2017 YA 2017
+
+### US$ S$
+
+### Adjusted trade profit before carry back 300,000 414,990*
+
+### Less: Loss carry back to YA 2017
+
+### 72,
+
+### 100,612#
+
+### CI after loss carry-back
+
+```
+(before partial tax exemption)
+```
+### 227,
+
+### 314,
+
+### * S$300,000 x 1.
+
+```
+# S$72,733 x 1.
+```
+### (d) Order of Deduction
+
+### 6.8 The QD carried back will be deducted from your assessable income of
+
+### the immediate preceding YA in the following order:
+
+### (a) current year unabsorbed CA, if any; and then
+
+### (b) current year trade loss, if any.
+
+### 6.9 If you have other income in addition to trade income, the unabsorbed CA
+
+### and trade losses will be deducted against the other sources of income in
+
+### the order as follows:
+
+### 1 st : Income from same trade
+
+### 2 nd : Income from other trade (proportionately if there is more than
+
+### one other trade, business, profession or vocation)
+
+### 3rd : Income from all other sources (proportionately if there is more
+
+### than one other sources)
+
+
+### 6.10 Where your QD exceed $100,000, and they arose from more than one
+
+### trade, business, profession or vocation, the amount you can carry back
+
+### for each of the trade, business, profession or vocation is also determined
+
+### on a proportionate basis.
+
+### Annex B provides examples on the order of deducting the QD carried
+
+### back where there is more than:
+
+### (i) one trade source; and
+
+### (ii) one source of other income.
+
+### 7 Carry- back relief under specific scenarios
+
+### (a) Where income is taxed at concessionary rate
+
+### 7.1 If you are a company with income chargeable to tax at the normal
+
+### corporate tax rate, but your QD relate to income chargeable to tax at
+
+### concessionary tax rate, the adjustment provided under section 37B of
+
+### the ITA, (“adjustment factor”) has be applied for deduction across
+
+### income chargeable under different tax rates.
+
+### 7.2 In addition, the amount of QD (up to $100,000) is determined based on
+
+### the following formula:
+
+### A + B
+
+### where A = any amount deducted against assessable income subject
+
+### to tax at the normal corporate tax rate (currently 17%);
+
+### B = any amount deducted against assessable income subject
+
+### to tax at any concessionary rate of tax divided by the
+
+### adjustment factor for that concessionary rate of tax;
+
+### and
+
+### the adjustment factor = Normal corporate tax divided by the
+
+### Concessionary tax rate
+
+### 7.3 Annex C is an example on the carry-back of QD for a company deriving
+
+### income that is subject to tax at a concessionary rate.
+
+### Annexes D1 and D2 give more examples on the carry-back of QD where
+
+### there is income from more than one other trade, or more than one other
+
+### source of income.
+
+### (b) Where group relief is claimed
+
+### 7.4 If you are a company which has elected for group relief, the amount of
+
+### QD you can carry back is the net amount after deducting the loss items
+
+### transferred out to the eligible claimant company or companies. Annex E
+
+### illustrates how this is being done.
+
+### 7.5 Annex F shows the order of deduction for companies at a glance.
+
+
+### (c) Where transfer to spouse is made
+
+### 7.6 The spousal transfer scheme has been phased out with effect from YA
+
+### 2016. Any QD arising from YA 2016 (basis year 2015) onwards would
+
+### no longer enjoy spousal transfer. However, under section 37E, you may
+
+### continue to carry-back the QD to deduct against your assessable income
+
+### of the immediate preceding YA. Annex G provides an illustration on how
+
+### carry-back relief is effected for an individual and his spouse where
+
+### transfer under section 37D is made prior to YA 2016.
+
+### (d) Where the relief reduces personal reliefs
+
+### 7.7 If you are an individual, you are entitled to the following personal reliefs
+
+### based on your earned income for that YA:
+
+### (a) earned income relief;
+
+### (b) working mother child relief (for a married woman); and
+
+### (c) deduction for CPF contributions by a self-employed.
+
+### 7.8 As the QD carried back would reduce your earned income of the
+
+### immediate preceding YA, your personal reliefs for the immediate
+
+### preceding YA would have to be revised accordingly based on your
+
+### revised earned income for that YA.
+
+### (e) Where the relief is for limited partners of an LLP or a LP
+
+### 7.9 If you are a limited partner of an LLP or a LP, your relevant deductions,
+
+### together with all of your relevant deductions allowed in all past YAs, must
+
+### not exceed your contributed capital as at the end of the basis period
+
+### relating to that YA. This restriction is known as the “relevant deduction
+
+### restriction^4 ”. Any excess of the relevant deductions over your contributed
+
+### capital may then (subject to conditions) be carried forward to be
+
+### deducted against your future share of income from the same LLP or LP.
+
+### 7.10 The relevant deduction restriction also applies for the purpose of carry-
+
+### back relief. Your capital contribution as at the end of the basis period
+
+### relating to the YA that the QD arise will be used for the relevant deduction
+
+### restriction. This is because your QD to be carried back relate to that YA
+
+### and not the immediate preceding YA.
+
+### 7.11 Annex H shows how the carry back deduction and restriction of the
+
+### qualifying deductions are applied to partners of an LLP.
+
+(^4) For an explanation of what is “contributed capital” and more details of the relevant deduction
+restriction”, please refer to IRAS e-Tax Guide on “Income Tax Treatment of Limited Liability
+Partnerships (Second Edition)” issued on 1 Mar 2014.
+
+
+### 8 Specific exclusions for carry-back relief
+
+### 8.1 You will not be able to carry back your QD if the QD arise from certain
+
+### trade or activity carried on. They are:
+
+### (a) Qualifying deductions of a trade where the income is wholly
+
+### exempt from tax
+
+### If you carry on such a trade (e.g. pioneer trade), you are not
+
+### allowed to carry back the QD relating to that trade for deduction
+
+### against other exempt or non-exempt income.
+
+### (b) Qualifying deductions of specific activity or trade
+
+### If you carry on specific types of activity or trade where there are
+
+### rules restricting the deduction of the QD only against such trade
+
+### or activity, or restricting the carry forward of the QD, you are to
+
+### apply the same restriction in the carry back of the QD. The QD
+
+### from such trade or activities are not allowed to be deducted
+
+### against your other sources of income or your spouse’s income.
+
+### These activities or trades include:
+
+### (i) finance leasing where the income is taxable under section
+
+### 10D of the ITA; and
+
+### (ii) the business of hiring out motor cars where the income is
+
+### taxable under section 10H of the ITA.
+
+### (c) Qualifying deductions of a Section 10E company
+
+### If you carry on a business of the making of investments, you are
+
+### not allowed to carry forward your QD arising from that business.
+
+### As the QD are disregarded, the carry- back relief does not apply.
+
+### (d) Loss of eligible investors in approved start-up companies
+
+### under the Enterprise Investment Incentive Scheme (EII)^5
+
+### Currently, an eligible investor holding qualifying shares in
+
+### approved start-up under the Enterprise Investment Incentive
+
+### scheme (EII) may incur a capital loss upon:
+
+### (i) the sale of its qualifying shares; or
+
+### (ii) the liquidation of the approved start-up companies.
+
+### As the loss is capital in nature, it does not qualify for carry- back
+
+### relief.
+
+(^5) Section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act [repealed
+in 2016]
+
+
+### 9 Administrative requirements for the carry-back relief
+
+### 9.1 If you wish to carry back the QD of any current YA to the immediate
+
+### preceding YA, you must make an election within the timeframe stated
+
+### below:
+
+### Companies
+
+### No later than the time of filing the income tax return
+
+### for the current YA
+
+### Bodies of persons
+
+### Trustees
+
+### Executors
+
+### Individuals No later than 30 days from the date of service of
+
+### the notice of assessment for the current YA on him
+
+### 9.2 The election, once made, is irrevocable.
+
+### (i) Companies making the election
+
+### 9.3 Companies should indicate the election in their Income Tax Return
+
+### (Form C) and the tax computation when filing their Form C for the
+
+### relevant YA. Companies that wish to make the election cannot use Form
+
+### C-S.
+
+### (ii) Individuals or partners of a partnership/LLP/LP making the election
+
+### 9.4 An individual taxpayer or the partner of a partnership/LLP/LP making the
+
+### election is required to complete and sign an prescribed election form^6.
+
+### Apart from the election form, you have to submit the documents set out
+
+### in the following tables:
+
+### Election made before or at the time of filing the income tax return
+
+```
+Tax Computation for: Certified financial
+accounts for the
+basis period relating
+to current YA
+```
+```
+Immediate
+preceding YA
+```
+```
+Current YA
+```
+```
+Sole proprietors: Revenue
+≥ $500,
+```
+##### √ √ √
+
+```
+Sole proprietors: Revenue
+< $500,
+```
+```
+Not required, but to indicate in the election form, the
+amount of QD to be carried back (including his share of
+the QD from a partnership/LLP/LP.
+Partners of businesses,
+regardless of the turnover
+```
+```
+Not required, but to indicate in the election form, your
+share of the QD to be carried back.
+```
+### 9.5 If you are a partner of a partnership/LLP/LP and have elected to carry
+
+### back your share of the QD from the partnership/LLP/LP, you need not
+
+### submit the financial accounts of the trade, business, profession or
+
+### vocation carried on through the partnership/LLP/LP. However, you must,
+
+### at the time of making the election, ensure that the precedent partner of
+
+### the partnership/LLP/LP has already submitted to the CIT the following
+
+### documents:
+
+(^6) The prescribed election form is available at [http://www.iras.gov.sg.](http://www.iras.gov.sg.)
+
+
+### (a) the certified statement of financial accounts; and
+
+### (b) the tax computation showing your share of CA/loss from the
+
+### partnership/LLP/LP.
+
+### 9.6 The precedent partner may submit a set of provisional accounts and tax
+
+### computation if the certified statement of financial accounts and tax
+
+### computation are not finalised when the partner makes the election.
+
+### 9.7 The CIT may treat the election as invalid if the precedent partner does
+
+### not comply with the requirements.
+
+### Election made after filing the income tax return
+
+### 9.8 As an individual you may elect for the carry-back relief after filing your
+
+### income tax return for the relevant current YA (but no later than 30 days
+
+### from the date of service of the notice of assessment for the current YA
+
+### on you). You only need to submit the completed and signed prescribed
+
+### election form.
+
+### Bodies of persons/trustees/executors making the election
+
+### 9.9 Bodies of persons/trustees/executors may elect for the carry-back relief
+
+### by submitting the completed and signed prescribed election form,
+
+### together with a provisional/finalised set of tax computation and financial
+
+### accounts for the current YA and the revised tax computation for the
+
+### immediate preceding YA (no later than the time of filing the income tax
+
+### return for the current YA).
+
+### 10 Refund of excess tax
+
+### 10.1 Where there is tax to be refunded from the carry-back of the QD, the CIT
+
+### will refund the amount within 3 months from the date you (or together
+
+### with your spouse) make the election. If there is any tax owing for the
+
+### other tax types (e.g. property tax), the amount of tax to be refunded to
+
+### you is the net amount after deducting your other outstanding tax
+
+### liabilities.
+
+### 11 Time limit for CIT to raise additional assessments
+
+### 11.1 If the CIT discovers that the amount of QD carried back and deducted
+
+### against your assessable income of any immediate preceding YA was
+
+### excessive, the CIT would make an assessment on the amount which
+
+### should be charged to tax within 5 years after the end of that YA.
+
+
+### 11.2 To illustrate:
+
+### Example 1
+
+### You have carried back your trade loss of $ 8 0,000 for YA 20 18 to be
+
+### deducted against your assessable income for YA 2017. The trade loss
+
+### is subsequently reduced to $57,000. CIT may:
+
+### (a) revise the assessment for YA 20 18 (to reduce the amount of the
+
+### loss); and
+
+### (b) raise an additional assessment for YA 2017 (in respect of $23,
+
+### over allowed) by 31 Dec 2022.
+
+### 12 Contact information
+
+### 12.1 If you have any enquiries or need clarification on this Guide, please call:
+
+### 1800 - 3568 300 (Individual Income Tax)
+
+### 1800 - 3568 622 (Corporate Income Tax)
+
+### 6351 3883 (Taxation of Body of Persons)
+
+### 6351 3363 (Taxation of Trust/Estate)
+
+
+### 13 Updates and amendments
+
+### Date of
+
+### amendment
+
+### Amendments made
+
+### 1 09 Jul 2012 Paragraph 6.7 is inserted to clarify the exchange rate
+
+### that a company should use to compute the cap of
+
+### $100,000 for the qualifying deductions if its functional
+
+### currency is non S$.
+
+### 2 26 May 2014 Paragraph 7.9 amended to incorporate the Budget
+
+### 2014 tax changes in relation to the removal of spousal
+
+### transfer scheme.
+
+### The subsequent paragraphs were renumbered.
+
+### 3 2 Apr 2018 The main amendments include:
+
+### a) Deletion of paragraph 1.3 and amendment of
+
+### paragraph 4.2 due to the expiry of the Enhanced
+
+### Carry-Back Relief System.
+
+### b) Deletion of paragraphs 7.6 to 7.8 and amendment
+
+### of paragraph 7.9 to update the Spousal Transfer
+
+### Scheme.
+
+### c) Revisions to paragraphs 9.3-9.9 on the
+
+### administrative requirements in making the
+
+### election. The revisions to administrative
+
+### requirements for companies take effect from YA
+
+### 2010.
+
+### d) Removal of the time limit of 7 years for YA 2007
+
+### and before in paragraph 11.
+
+### e) Updating of examples and the Annexes.
+
+### 4 9 Apr 2019 Paragraph 9.3 amended to incorporate changes to the
+
+### administrative requirements in making the election.
+
+
+### Annex A – Illustration of how the amount of qualifying deductions to be
+
+### carried back is determined
+
+#### 1. ABC Pte Ltd has unabsorbed CA and loss for YA 20 18 and has claimed for
+
+#### carry-back relief
+
+#### 2. ABC Pte Ltd has normal chargeable income, donation and investment
+
+#### allowance for YA 20 17
+
+#### 3. ABC Pte Ltd's accounting year end is 31 Dec.
+
+#### (Assumption: The same business test and the shareholding test are satisfied.
+
+#### YA 20 17 and 20 18 are not ABC Pte Ltd’s first 3 YAs which qualify for the tax
+
+#### exemption for new start-up companies.)
+
+#### Tax Computations of ABC Pte Ltd for YAs 20 17 and 20 18
+
+#### YA 20^18
+
+#### $^ $^
+
+#### Trade
+
+#### Adjusted profit before CA 0
+
+#### Less : Current CA (35,000) (35,000)
+
+#### Other income
+
+#### Rental 24,^
+
+#### (11,000)
+
+#### Less: CA carried back to YA 20 17 11,
+
+#### Unabsorbed CA for YA 20 18 c/f NIL^
+
+#### Current year adjusted trade loss (70,000)
+
+#### Less: Loss carried back to YA 20 17 70,
+
+#### Unabsorbed loss for y/e 31.12.20 17 c/f NIL^
+
+#### Unutilised investment allowance for YA 20 18 c/f (Note 1) (25,000)^
+
+#### Chargeable income NIL
+
+#### Tax thereon NIL
+
+
+#### Annex A (continued)
+
+#### YA 20^17
+
+#### Original Assessment^ Revised Assessment^
+
+#### (before carry-back is allowed)^ (with carry-back allowed)^
+
+#### $^ $^ $^ $^
+
+Trade (^)
+Adjusted profit before CA 220,000 220, (^)
+
+#### Less : Current CA 40,000 180,000 40,000 180,
+
+Other income (^)
+
+#### Rental 30,000 30,
+
+#### 210,000^ 210,^
+
+#### Less: Donation - $1,000 (Note 2) (2, 5 00) (2, 5 00)
+
+#### Investment allowance (40,000) (40,000)
+
+#### 167 ,^500    167 ,^500
+
+Less: CA carried back from YA 20 18 (11,000) (^)
+
+#### Loss carried back from YA 20^18 (70,000)^ (81,000)^
+
+#### Chargeable income (before deducting exempt amount) 167 , 500 86,
+
+#### Less: Exempt amount (Note 3)^ (86,250) (4 5 , 75 0)
+
+#### Chargeable income (after deducting exempt amount) 81,250 4 0,75 0
+
+#### Tax thereon 13,812.50 6,927.
+
+#### Less: 50% CIT rebate (capped at $25,000) (6,906.25) (3,463.75)
+
+#### 6,906.25 3,463.
+
+#### Less: Tax previously assessed (6,906.25)
+
+#### Tax to be discharged (3,442.50)
+
+(^)
+(^)
+Note:
+
+1. Investment allowance is not eligible for carry-back.
+2. Donation made qualifies for 250% tax deduction under s37(3A) of the ITA.
+3. Computation of exempt amount of normal chargeable income:
+
+### On the first $10,000 (75% of the income) 7,500 7,
+
+### On the next $157,500 (50% of the income) 78,75 0
+
+### On the next $7 6 , 5 00 (50% of the income) 38,
+
+```
+Total exempt income 86,250 45,75 0
+```
+
+#### Annex B – Illustration of carry-back of qualifying deductions and order of deduction where
+
+#### there is more than one trade
+
+#### Tax Computations of Mr Guan for YAs 2017 and 2018
+
+(^)
+
+### YA 2018^
+
+### $^ $^
+
+Trade (^)
+Sole-proprietorship business X - Adjusted profit before CA (^0)
+
+#### Less : Current CA (80,000) (80,000)
+
+Sole-proprietorship business Y - Adjusted profit before CA 50, (^)
+
+#### Less : Current CA (70,000) (20,000)
+
+Partnership business Z - Share of adjusted profit before CA (^0)
+
+#### Less : Share of current CA (60,000) (60,000)
+
+#### (160,000)^
+
+Other Income (^)
+
+#### Employment 24,
+
+#### Rental 12,
+
+#### (124,000)^
+
+Less: CA carried back to YA 2017 (Note 1) (^) 100,
+
+#### Unabsorbed CA for YA 2018 c/f (Note 2) (24,000)
+
+#### Sole-proprietorship business X - Current year adjusted loss (60,000)
+
+#### Partnership business Z - Share of current year adjusted loss (35,000)
+
+#### Unabsorbed loss for y/e 31.12.2017 c/f (95,000)
+
+#### Chargeable Income NIL
+
+#### Tax thereon NIL
+
+#### 1. Mr Guan is a sole-proprietor of business X & Y, and a partner of partnership Z.
+
+#### 2. Mr Guan has unabsorbed CA and loss for YA 2018 and has claimed for carry-back relief,
+
+#### but not the unabsorbed full CA is carried back.
+
+#### 3. He wishes to claim wife and child relief.
+
+#### 4. The accounting year end of Mr Guan’s sole proprietorship and partnership businesses
+
+### is 31 Dec.
+
+
+#### Annex B (continued)
+
+#### YA 2017^
+
+#### Original Assessment^ Revised Assessment^
+
+```
+(before carry-back
+```
+is allowed) (^)
+(with carry-back
+
+#### allowed)
+
+#### $^ $^ $^ $^
+
+Trade (^)
+Sole-proprietorship X - Adjusted profit before CA 80,000 80,000 (^)
+Less: Current CA (35,000) 45,000 (35,000) 45,000
+Sole-proprietorship Y - Adjusted profit before CA 95,000 95,000 (^)
+Less: Unabsorbed CA for YA 2016 b/f (20,000) (20,000) (^)
+Current CA^ (25,000)^ 50,000^ (25,000)^ 50,000^
+Partnership Z - Share of adjusted profit before CA (^0    0)
+Less: Share of current CA (12,000) (12,000) (12,000) (12,000)
+83,000^ 83,000^
+Partnership Z - Share of adjusted loss (6,000) (6,000)
+77,000^ 77,000^
+Other income (^)
+Employment 40,000 40,000
+Rental 18,000 18,000
+135,000^ 135,000^
+Less: CA carried back from YA 2018 (100,000)
+Assessable income 135,000 35,000
+Less: Personal reliefs (^)
+- Earned Income 1,000 1,000 (^)
+- Spouse 2,000 2,000 (^)
+- Child 4,000 4,000 (^)
+
+- CPF 8,000 15,000 8,000 15,000
+Chargeable income 120,000 20,000
+
+```
+Tax thereon 7,450.00 0.00
+```
+```
+Less: Tax previously assessed 7,450.00
+Tax repayable (7,450.00)
+```
+```
+Note:
+```
+1. Computation of amount of CA to be carried back from each trade on a proportionate basis: (^)
+
+### Sole-proprietorship business X:^ 100,000 x
+
+```
+80,000 / 160,000 = 50,000
+```
+### Sole-proprietorship business Y:^ 100,000 x
+
+20,000 / 160,000 = 12,500 (^) Total = $100,000
+
+### Partnership business Z:^ 100,000 x
+
+```
+60,000 / 160,000 = 37,500
+```
+2. Computation of amount of CA to be carried forward from each trade on a proportionate basis: (^)
+
+### Sole-proprietorship business X:^ 24,000 x
+
+```
+80,000 / 160,000 = 12,000
+```
+### Sole-proprietorship business Y:^ 24,000 x
+
+```
+20,000 / 160,000 = 3,000
+```
+### Total = $24,000^
+
+### Partnership business Z:^ 24,000 x
+
+```
+60,000 / 160,000 = 9,000
+```
+
+#### Annex C – Carry back of qualifying deductions for a company deriving income subject to tax at
+
+#### a concessionary rate
+
+#### Tax Computations of GHI Pte Ltd for YAs 20 17 and 20 18
+
+(^)
+
+#### YA 20^18
+
+```
+Concessionary
+income
+```
+```
+Normal^
+Income
+```
+#### (Taxed at 10%)^
+
+(^) (Taxed at 17%)
+
+#### $^
+
+(^) $
+Trade (^)
+
+#### Adjusted Profit before CA 0 0
+
+#### Less : Current CA (20,000) (15,000)
+
+#### (20,000)^ (15,000)^
+
+#### Less: CA carried back to YA 20 17 20,000 15,000
+
+#### Unabsorbed CA for YA 20 18 c/f NIL NIL
+
+#### Current year adjusted trade loss (180,000) (70,000)
+
+#### Less: Loss carried back to YA 20 17 (Note 1) 74,950 29,147
+
+#### Unabsorbed loss for y/e 31.12.20 17 c/f (105,050) (40,853)
+
+#### Chargeable Income NIL
+
+#### Tax thereon NIL
+
+#### 1. GHI Pte Ltd has trade loss from its trade which was granted concessionary rate of tax of 10%
+
+#### for YA 20 18 and has claimed for carry-back relief.
+
+#### 2. GHI Pte Ltd’s accounting year-end is 31 Dec.
+
+#### (Assumption: The same business test and the shareholding test are satisfied.)
+
+#### YA 2017 and 2018 are not GHI Pte Ltd's first 3 YAs which qualify for the tax exemption for new
+
+### start-up companies)
+
+
+#### Annex C (continued)
+
+#### YA 20 17
+
+#### Original Assessment^ Revised Assessment^
+
+```
+(before carry-back
+```
+is allowed) (^)
+(with carry-back
+allowed)
+
+#### Concessionary^ Normal^ Concessionary^ Normal^
+
+```
+income
+(10%)
+```
+```
+income
+```
+( 17 %) (^)
+income
+(10%)
+income
+( 17 %)
+Trade (^) $ $ $ $
+Adjusted Profit before CA 240,000 170,000 240,000 170,000
+Less: (^) Current CA (30,000) (25,000) (30,000) (25,000)
+
+#### 210,000^ 145,000^ 210,000^ 145,000^
+
+#### Less: CA carried back from YA 20 18 0 0 (20,000) (15,000)
+
+#### 210,000^ 145,000^ 190,000^ 130,000^
+
+#### Less: Loss carried back from YA 2018 0 0 (74,950) (29,147)
+
+Chargeable Income (before exempt amount) 210,000 145,000 115,050 100,853
+
+#### Less: Exempt amount (Note 2 and 3) 0 (75,000) 0 (52,927)
+
+Chargeable Income (after exempt amount) 210,000 70,000 115,050 47,926
+
+Tax at 10% 21,000.00 11,505.00
+
+Tax at 17 % 11 , 9 00.00 8,147.42
+
+#### 3 2,900.00^ 19,652.42^
+
+Less: 50% CIT rebate (capped at $25,000) (^) (16,450.00) (9,826.21)^
+16,450.00^ 9,826.21
+Less: Tax previously assessed (16,450.00)
+Tax to be discharged (6,623.79)
+Note:
+1. The amount of loss c/f is computed as follows:
+(a) Amount of CA carried back under 10% rate = $ 20,000 (which is equivalent to 20,000 x^10 /^17 = $11,765^ @^17 %)^
+(b) Total CA carried back = $15,000 + $11,765^ [i.e. amount in (a)] = $26,765^
+(c ) Amount of loss that can be carried back =^ $100,000 -^ (b) = $73,235^
+(d) Total amount of adjusted loss available for carry-back = $180,000 x^10 /^17 (under 10%) +$70,000 (under 17%) =$175,882^
+(e) Amount of loss to be carried back [i.e. amount in (c )] apportioned as follows:^
+Under 10%^ :^ (105,882^ /175,882^ x 73,235^ x^17 /^10 ) = $ 74,950^
+Under^17 %^ :^ (70,000^ /^ 175,882^ x 73,235^ ) = $ 29,147^
+2. Nil as the partial tax exemption is not applicable to concessionary income. (^)
+3. Computation of exempt amount for normal chargeable income:
+On the first $10,000^ (75% of the income)^ 7,500^ 7,500^
+On the next $135,000 (50% of the income)^ 67,50^0
+On the next $90,853 (50% of the income)^ 45,427^
+Total exempt amount^ 75,000^ 52,927^
+
+
+#### Annex D1 – Illustration of carry-back of qualifying deductions and order of deduction where
+
+#### there is more than one trade subject to tax at different tax rates
+
+#### Tax Computations of JKL Pte Ltd for YAs 20 17 and 20 18
+
+(^)
+
+#### YA 20^18
+
+#### Trade A^
+
+(^) Existing Trade
+
+#### Concessionary
+
+#### income
+
+#### Concessionary
+
+#### income
+
+#### Normal
+
+#### Income
+
+#### (Taxed at 5%) (Taxed at 10%)
+
+#### (Taxed at
+
+#### 17 %)
+
+#### $^
+
+(^) $ $
+Trade (^)
+
+#### Trade Profit before CA 0 40,000 0
+
+#### Less : Current CA (90,000) (50,000) (45,000)
+
+#### (90,000)^
+
+(^) (10,000)
+
+#### (45,000)^
+
+Other income (^)
+
+#### Interest - - 5,000
+
+#### Rental - - 20,000
+
+#### (90,000)^
+
+(^) (10,000)
+
+#### (20,000)^
+
+#### Less: CA carried back to YA 20 17 (Note 1) 0 10,000 20,000
+
+#### Unabsorbed CA for YA 20 18 c/f (90,000) NIL NIL
+
+#### Current year adjusted trade loss (560,000) (35,000)
+
+Less: Loss carry back to YA 20 (^17)
+
+#### (
+
+1 64,706/ 1 99,706 x 74,118 x (^17) / 5 ) (Note 2) (^) 207,836
+
+#### (
+
+#### 35,000 / 1 99,706 x 74,118)
+
+#### 12,990^
+
+#### Unabsorbed loss for y/e 31.12.20 17 c/f (352,164) 0 (22,010)
+
+#### Chargeable Income NIL
+
+#### Tax thereon NIL
+
+#### 1. JKL Pte Ltd has income/loss from 2 or more tax rate categories, and has claimed for carry-back
+
+#### relief in respect of unabsorbed CA and loss for YA 20 18. A new trade (Trade A) with income
+
+#### subject to tax at concessionary rate of 5% commenced only in YA 20 18.
+
+#### 2. JKL Pte Ltd 's accounting year-end is 31 Dec.
+
+#### (Assumption: The same business test and the shareholding test are satisfied. YA 20 17 and 20 18 are
+
+#### not JKL Pte Ltd's first 3 YAs which qualify for tax exemption for new start-up companies.)
+
+
+#### Annex D1 (continued)
+
+##### YA 20^17
+
+Original Assessment^ Revised Assessment^
+(before carry-back is allowed)^ (with carry-back allowed)^
+Concessionary^ Normal^ Concessionary^ Normal^
+income (10%)^ income (17%)^ income (10%)^ income (17%)^
+Trade $ $ $ $
+
+Adjusted Profit before CA 150,000 135,000 150,000 135,000
+
+Less: Current CA (60,000) (15,000) (60,000) (15,000)
+
+90,000^ 120,000^ 90,000^ 120,000^
+
+Other Income (^)
+Interest 0 15,000 0 15,000
+Rental 0 40,000 0 40,000
+90,000^ 175,000^ 90,000^ 175,000^
+Less: CA carried back from YA 2018 (10,000) (20,000)
+90,000^ 175,000^ 80,000^ 155,000^
+Less: Loss carried back from YA 2018 (^)
+
+-^ Loss from same trade^ (12,990)^
+-^ Loss from other trade (Note 3)^ (36,476)^ (39,672)^
+
+Chargeable Income (before exempt amount) 90,000 175,000 43,524 102,338
+Less: exempt amount (Note 4 and 5) 0 (90,000) 0 (53,669)
+Chargeable Income (after exempt amount) 90,000 85,000 43,524 48,669
+
+Tax at 10% 9,000.00 4,352.40
+
+Tax at 17% 14,450.00 8,273.73
+
+23,450.00^ 12,626.13^
+Less: 50% CIT rebate (capped at $25,000) (11,725.00) (6,313.07)
+11,725.00 6,313.07
+
+Less: Tax previously assessed (11,725.00)
+Tax to be discharged (5,411.93)
+
+Note: (^)
+1.
+JKL is not allowed to carry back the CA in respect of Trade A as it was not carrying on Trade A during the basis period
+for YA 2017 (i.e. the same business test is not satisfied.) (^)
+2. (^) The loss to be carried back is computed as follows
+(a) Amount of CA carried back under 10% rate =10,000 (which is equivalent to 10,000 x^10 / 17 = 5,882 @ 17%)
+(b) Total CA carried back = $5,882 + $20,000 = $25,882
+(c) Amount of loss that can be carried back =$100,000 - $25,882 = $74,118 (^)
+
+3. (a) The computation of adjusted assessable income for YA 2017 available for deduction from the loss carry-back is as follows:
+    Concessionary
+       income (10%)
+
+```
+Normal
+```
+Income (17%)^
+
+-^ $80,000 x^10 /^17 (adjustment factor)^ $47,059^
+-^ Adjusted profit^ $135,000^
+-^ Less: Current year^ CA^ ($15,000)^
+CA carried back from YA 2018^ ($20,000)^
+Loss carried back from YA 2018^ ($12,990)^
+
+$87,010^
+(b) The loss (incurred under 5% tax rate category) of $207,836 carried back from YA 2018 to be apportioned to the
+concessionary income and normal income for YA 2017 is as follows:^
+
+-^ under 10% tax rate category: $47,059/$134,069 x $207,836 x^5 /^10 = $36,476^
+    - under 17% tax rate category: $87,010/$134,069 x $207,836 x^5 / 17 = $39,672
+4. Nil as the partial tax exemption is not applicable to concessionary income
+5.^ Computation of exempt amount for normal chargeable income:^
+On the first $10,000 (75% of the income)^ 7,500^ 7,500^
+On the next $165,000 (50% of the income)^ 82,500^
+On the next $92,338 (50% of the income)^ 46,169^
+    Total exempt amount 90,000 53,669
+
+
+#### Annex D2 – Illustration of carry-back of qualifying deduction and order of deduction where
+
+#### there is one source of income subject to tax at different tax rate and one other
+
+#### source of income
+
+#### Tax Computations of MNO Pte Ltd for YAs 20 17 and 20 18
+
+(^)
+
+#### YA 20^18
+
+```
+Concessionary
+income
+```
+```
+Normal^
+Income
+```
+#### (taxed at 10%)^
+
+(^) (taxed at 17 %)
+
+#### $^
+
+(^) $
+
+#### Trade^
+
+#### Trade Profit before CA^0
+
+(^) 60,000
+
+#### Less :^ Current CA^ (50,000)^
+
+(^) (15,000)
+
+#### (50,000)^
+
+(^) 45,000
+
+#### Other income^
+
+#### Net foreign dividend [net of tax at 10% of $1,000]^0
+
+(^) 9,000
+
+#### Rental^0
+
+(^) 20,000
+
+#### (50,000)^
+
+(^) 74,000
+
+#### Less: S37B offset for CA (50,000 x
+
+(^10) / 17 )
+
+#### 50,000^
+
+(^) (29,412)
+
+#### Unabsorbed CA^ for YA 20^18 c/f^0
+
+(^) 44,588
+
+#### Current year adjusted trade loss^ (1,000,000)^
+
+(^0)
+
+#### (1,000,000)^
+
+(^) 44,588
+
+#### Less:^ S37B offset for loss (44,588^ x
+
+(^17) / (^10) ) 75,800 (4 4 , 588 )
+
+#### (924,200)^
+
+(^0)
+
+#### Less: Loss carried back to YA 20 17
+
+#### (100,000 x^17 / 10 ) 17 0,000
+
+#### 0
+
+#### Unabsorbed loss for y/e 31.12.20^17 c/f^ (7^54 ,^2 00)^
+
+(^0)
+
+#### Chargeable Income^
+
+(^) NIL
+
+#### Tax thereon^ NIL^
+
+#### 1. MNO Pte Ltd has normal chargeable income (including foreign dividend from a country with
+
+#### headline tax rate of less than 15%) and tax loss from its trade that was granted
+
+#### concessionary tax rate of 10% for YA 20 18 , and has claimed for carry-back relief.
+
+#### 2. MNO Pte Ltd’s accounting year-end is 31 Dec.
+
+#### (Assumption: The same business test and the shareholding test are satisfied. YA 20 17 and
+
+#### 2018 are not MNO Pte Ltd's first 3 YAs which qualify for tax exemption for new start-up
+
+### companies.)
+
+
+#### Annex D2 (continued)
+
+##### YA 20^17
+
+```
+Original Assessment^ Revised Assessment^
+```
+```
+(before carry-back is allowed)^
+```
+```
+(with carry-back
+allowed)
+```
+```
+Concessionary^ Normal^ Concessionary^ Normal^
+Income
+(10%)
+```
+```
+income ( 17 %)
+income
+(10%)
+```
+```
+income ( 17 %)
+```
+```
+Trade $ $ $ $
+Adjusted Profit before CA 100,000 72,000 100,000 72,000
+Less: Current CA (40,000) (25,000) (40,000) (25,000)
+```
+```
+60,000^ 47,000^ 60,000^ 47,000^
+```
+Other Income (^)
+Gross foreign dividend [tax on div at 10%] 0 20,000 0 20,000
+Rental 0 35,000 0 35,000
+60,000^ 102,000^ 60,000^ 102,000^
+Less: Loss carried back from YA 20 18 ( 17 0,000) 0
+60,000^ 102,000^ (1^1 0,000)^ 102,000^
+Less: S37B offset (1 1 0,000 x^10 / 17 ) 11 0,000 (64,706)
+Chargeable Income (before exempt amount) 60,000 102,000 0 37,294
+Less: exempt amount (Note 1 and 2) 0 (5 3 ,500) 0 (21,147)
+Chargeable Income (after exempt amount) 60,000 48 ,500 0 16,147
+Tax at 10% 6,000.00 0.00
+Tax at 17 % 8,245.00 2,744.99
+14,245.00^ 2,7^44.^99
+Less: Foreign tax relief (Note 3 and 4) (1,616.67) (998.14)
+Net Tax Payable 12,628.33 1,746.85
+Less: 50% CIT rebate (capped at $25,000) (^) (6,314.17) (873.43)^
+6,314.16 873.42
+Less: Tax previously assessed (6,314.16)
+Tax to be Discharged (5,440.74)
+Note:
+1. (^) Nil as the partial tax exemption is not applicable to concessionary income. (^)
+2. Computation of exempt amount for normal chargeable income: (^)
+On the first $10,000^ (75% of the income)^ 7,500^ 7,500^
+On the next $92,000^ (50% of the income)^46 ,000^
+On the next $27,294 (50% of the income)^ 13,647^
+Total exempt amount^53 ,500^ 21,147^
+
+3. Computation of foreign tax relief = 20,000/102,000 x 48,500 x 17% = 1,616.67
+
+4. Computation of foreign tax relief: (^)
+(a) Based on the order of deduction, the loss carried back of $ 17 0,000 (@10% will be deducted from the same trade income (i.e. $60,000
+@10%) first, followed by other trade income (i.e. $47,000 @ 17 %). The balance of loss carried back of $17,706 [i.e. $64,706 - $47,000]
+will be deducted proportionately between foreign dividend ($20,000) and rental income ($35,000).
+(b)^ Loss of $17,706^ attributable to:^
+
+-^ foreign dividend : $^17 ,^706 x 20,000/55,000^ =^ $6,439^
+- rental income : $17,706^ x 35,000/55,000^ =^ $11,267^
+(c) Foreign dividend net of loss carried back = $20,000-$6,439 = $13,561
+(d)^ Rental income net of loss carried back^ = $35,000 -^ $11,267 = $23,733^
+    (e) Foreign tax relief = lower of:
+
+(i) 10% of $20,000 (i.e. $2,000) or (^)
+(ii)^1 3,561^ x 16,147x17% = $998.14^
+13,561+23,733^
+
+
+#### Annex E – Illustration on how carry-back relief is effected where transfer under group
+
+#### relief system is made
+
+#### 1. PQR Pte Ltd has unabsorbed CA and loss for YA 2018. It has elected to transfer its loss
+
+#### items to its related company, STU Pte Ltd, whose assessable income for YA 2018 is
+
+#### $30,000.
+
+#### 2. PQR Pte Ltd has also elected for carry-back relief. For its YA 2017 assessment, PQR Pte
+
+#### Ltd has elected to claim loss items from its related company, VWX Pte Ltd, which has
+
+#### unabsorbed CA of $15,000.
+
+#### 3. PQR Pte Ltd’s accounting year end is 31 Dec.
+
+#### (Assumption: The same business test and shareholding test, as well as all conditions stated in
+
+#### S37C of the ITA, are satisfied. YAs 2017 and 2018 are not PQR Pte Ltd’s first 3YAs which
+
+### qualify for tax exemption for new start-up companies.)
+
+#### Tax Computations of PQR Pte Ltd for YAs 20 17 and 20^18
+
+#### $ $
+
+#### Trade
+
+#### Adjusted profit before CA^0
+
+#### Less:^ Current CA^ (80,000)^ (80,0 0 0)^
+
+#### Other income
+
+#### Interest 25,000
+
+#### Rental^ 10,000^
+
+#### (45,000)^
+
+#### Less:^ Loss items transferred to STU Pte Ltd^ 30,000^
+
+#### (15,000)
+
+#### Less: Current CA carried back to YA 20 17 15,000
+
+#### Unabsorbed CA^ for YA 2018 c/f NIL
+
+#### Current year adjusted trade loss (160,000)
+
+#### Less: Loss carried back to YA 20 17 (100,000 - 15,000) 85,000
+
+#### Unabsorbed loss^ for y/e 31.12.2017 c/f (75,000)^
+
+#### Chargeable income^ NIL^
+
+#### Tax thereon NIL
+
+#### YA 20 18
+
+
+### Annex E (continued)
+
+Computation of exempt amount for normal chargeable income: (^)
+On the first $10,000 (75% of the income) 7,500 7,500
+On the next $221,000 (50% of the income) 110,500 (^)
+On the next $121,000 (50% of the income) 60,500
+Total exempt amount 118,000 68,000
+Less: Tax previously assessed (^)
+Tax to be Discharged
+
+### $ $ $ $
+
+### Trade income
+
+### Adjusted profit before CA 240,000 240,000
+
+### Less: Current CA (55,000) 185,000 (55,000) 185,000
+
+### Other income
+
+### Interest 36,000 36,000
+
+### Rental 25,000 25,000
+
+### 246,000 246,000
+
+### Less: Current year CA transferred from VWX Pte Ltd (15,000) (15,000)
+
+### 231,000 231,000
+
+### Less: CA carried back from YA 2018 (15,000)
+
+### Loss carried back from YA 2018 (85,000) (100,000)
+
+### Chargeable income (before deducting exempt amount) 231,000 131,000
+
+### Less: Exempt amount (Note 1) (118,000)^ (68,000)
+
+### Chargeable income (after deducting exempt amount) 113,000 63,000
+
+### Tax thereon 19,210.00 10,710.00
+
+### Less: 50% CIT rebate (capped at $25,000) (5,355.00)
+
+### 5,355.00^
+
+### Note 1
+
+### (before carry-back is allowed) (with carry-back allowed)
+
+### YA 2017
+
+### Original Assessment Revised Assessment
+
+##### (9,605.00)
+
+##### 9,605.00
+
+### (9,605.00)
+
+### (4,250.00)
+
+
+### 26
+
+#### Annex F – Diagram showing order of deduction for companies at a glance
+
+```
+Current YA
+```
+```
+Adjusted profit - Trade 1 AA
+Less: Unabsorbed CA b/f (BB)
+CC
+Less: CA for current year (DD) (EE)
+```
+```
+Adjusted profit -Trade 2 FF
+Less: CA for current year (GG) HH
+II
+Less: Unabsorbed loss - Trade 2 b/f JJ
+KK
+Adjusted loss - Trade 3 (LL)
+MM
+Rental income NN
+Interest income OO PP
+QQ
+Less: Unutilised donation b/f (RR)
+SS
+Less: current year donation (TT)
+UU
+Less: Amt transferred from Group Co
+under s 37C:
+```
+- CA transferred (VV)
+- Loss transferred (WW)
+- Donation transferred ( XX ) (YY)
+ZZ
+Less: Amt carried back under s37E
+- CA (Note 1) ZA
+- Loss (Note 1) ZB (ZC)
+CI before exempt amt under s43(6) or (6A) ZD
+Less: Exempt amt under s43(6) or (6A) ZE
+Chargeable income ZF
+
+### Note 1:
+
+```
+The total amount of CA and Losses to be carried back must
+not exceed $100,000
+```
+```
+Company XYZ Company A
+```
+Immediate preceding YA Current YA
+
+```
+Adjusted profit - Trade 1 ZG
+```
+#### Less: CA for current year (ZH) (ZI)
+
+```
+Adjusted profit -Trade 2 ZJ
+Less: CA for current year (ZK) ZL
+(ZM)
+Rental income ZN
+Interest income ZO ZP
+(ZQ)
+Less: Amt transferred to Group Company
+under s37C ZR
+(ZA)
+Less: Amt carried back under s37E ZA
+Unabsorbed CA c/f NIL
+```
+```
+Current year trade loss - Trade 3 (ZT)
+Less: Amt carried back under s37E ZB
+Unabsorbed current year loss c/f ( ZU)
+```
+```
+Unabsorbed current year donation c/f ZV
+```
+```
+Unutilised investment allowance c/f ZW
+```
+### Chargeable income NIL
+
+```
+Adjusted profit -Trade 1 ZX
+Less unabsorbed CA b/f (ZY)
+YA
+Less: CA for current year (YB) (YC)
+```
+```
+Adjusted profit -Trade 2 YD
+Less: CA for current year (YE) YF
+YG
+Less: Unabsorbed loss - Trade 2 b/f YH
+YI
+Adjusted loss - Trade 3 (YJ)
+(YK)
+Rental income YL
+Interest income YM YN
+YO
+Less: Unabsorbed donation b/f (YP)
+YQ
+Less: Current year donation (YR)
+ZR
+Less: Amt transferred from Group Company
+under s37C:
+```
+- CA transferred (ZR)
+Chargeable income NIL
+
+
+#### Annex G – Illustration on how carry-back relief is effected for an individual and his spouse
+
+#### where transfer under section 37D is made^7
+
+(^7) The spousal transfer scheme is applicable up to YA 2015.
+
+### Example 1A:
+
+#### 1. Mr Tan has only 1 source of trade income from his sole-proprietorship. He also derived
+
+#### employment and rental income for YA 2015.
+
+#### 2. Mr Tan has unabsorbed CA and loss for YA 2015 from his sole-proprietorship business,
+
+#### of which the accounting year end is 31 Dec.
+
+#### 3. Mr Tan wished to claim qualifying child relief in respect of his only child.
+
+#### 4. Mr Tan has elected to claim for his unabsorbed CA to be transferred to his wife, Mrs Tan
+
+### and the balance to be carried-back to his YA 20 14 assessment.
+
+#### Tax Computations of Mr Tan for YAs 20 14 and 20 15
+
+#### $ $
+
+#### Trade
+
+#### Sole-proprietorship business – Adjusted profit before CA 0
+
+#### Less: Current CA (55,000) (55,000)
+
+#### Other income
+
+#### Employment 24,000
+
+#### Rental 12,000
+
+#### (19,000)
+
+#### Less: CA transferred to Mrs Tan’s YA 20 15 assessment (s37D) 19,000
+
+#### Unabsorbed CA for YA 2016 c/f NIL
+
+#### Sole-proprietorship business – Current year adjusted trade loss (154,000)
+
+#### Less: Loss transferred to Mrs Tan's YA 20 15 assessment (s37D) 9,000
+
+#### (145,000)
+
+#### Less: Loss carried back to YA 20 14 (Note 1) 100,000
+
+#### Unabsorbed loss for y/e 31.12.2014 c/f (45,000)
+
+#### Chargeable income NIL
+
+#### Tax thereon NIL
+
+#### YA 20 15
+
+
+### Annex G (continued)
+
+### $ $ $ $
+
+### Trade
+
+### Sole-proprietorship - Adj profit before CA 77,000 77,000
+
+### Less: Current CA (35,000) 42,000 (35,000) 42,000
+
+### Other income
+
+### Employment 40,000 40,000
+
+### Rental 21,000 21,000
+
+### 103,000 103,000
+
+### Less: Loss carried back from YA 2015 (Note 1) - (100,000)
+
+### Assessable income 103,000 3,000
+
+### Less: Personal reliefs
+
+- Earned income (Note 2) 1,000 1,000
+- Child 4,000 4,000
+- CPF 8,000 13,000 8,000 13,000
+
+### Chargeable income 90,000 Nil
+
+### Tax thereon 4,500.00 0.00
+
+### Less: Tax previously assessed 4,500.00
+
+### Tax to be refunded (4,500.00)
+
+### (before carry-back is allowed) (with carry-back allowed)
+
+### YA 2014
+
+### Original Assessment Revised Assessment
+
+Note:
+
+1. As Mr Tan has elected for carry-back relief, the full amount of $100,000 must be carried back even though
+    he has $1 3 ,000 personal reliefs to deduct from his assessable income of $103,000.
+2. Computation of earned income relief:
+
+```
+(a) Based on the order of deduction, the loss carried back of $100,000 will be deducted from trade income
+of $42,000 first. The balance of loss carried back of $58,000 [i.e. $100,000 - $42,000] will be deducted
+proportionately between the employment income ($40,000) and rental income ($21,000).
+```
+```
+(b) Loss of $58,000 attributable to employment income = $58,000 x $40,000 / $61,000 = $38,033
+```
+```
+(c) Employment income net of loss carried back = $40,000 - $38,033 = $1,967
+```
+
+#### Annex G (continued)
+
+(^)
+(^)
+Tax Computation of Mrs Tan for YA 20^15
+
+##### $^ $ $^ $
+
+```
+Rental^28 ,000^28 ,000^
+28 ,000^ 28,000^
+Less:^ CA transferred from Mr Tan^ 19,000^
+Loss transferred from Mr Tan^ 9,000^ 28,000^
+Assessable income^28 ,000^ Nil^
+Less:^ Personal reliefs^
+```
+- Earned income^
+
+##### 0 0
+
+```
+Chargeable income^28 ,^000 Nil^
+```
+```
+Tax thereon^80.^00 0.00^
+Less:^ Tax previously assessed^80.^00
+Tax to be refunded^ (^80.^00 )^
+```
+(^)
+(before s37D claim is allowed) (with s37D claim allowed)
+
+##### YA 20 15
+
+```
+Original Assessment^ Revised Assessment^
+```
+### 0
+
+#### Example 1B:
+
+#### Mrs Tan derived rental income. She has elected to claim for Mr Tan’s unabsorbed CA
+
+#### of $19,000 and loss of $9,000 to be deducted from her assessable income for the YA
+
+#### 2015.
+
+
+### Annex G (continued)
+
+#### Tax Computations of Mr Lim for YAs 20 17 and 20 18
+
+#### $ $
+
+#### Trade
+
+#### Sole-proprietorship business U – Adjusted profit before CA 0
+
+#### Less: Current CA (48,000) (48,000)
+
+#### Sole-proprietorship business V – Adjusted profit before CA 50,000
+
+#### Less: Current CA (35,000) 15,000
+
+#### Partnership business W – Share of adjusted profit before CA 0
+
+#### Less: Share of current CA (35,000) (35,000)
+
+#### (68,000)
+
+#### Other income
+
+#### Employment 24,000
+
+#### Rental 12,000
+
+#### (32,000)
+
+#### Less: CA carried back to YA 20 17 32,000
+
+#### Unabsorbed CA for YA 2018 c/f NIL
+
+#### Sole-proprietorship business U – Current year adjusted loss
+
+#### (75,000)
+
+#### Partnership business W – Share of current year adjusted loss (45,000)
+
+#### (120,000)
+
+#### Less: Loss carried back to YA 20 17 68 , 000
+
+#### ( 52 , 0 00)
+
+#### Unabsorbed loss for y/e 31.12.2017 c/f
+
+#### Chargeable income NIL^
+
+#### Tax thereon NIL
+
+#### YA 20 18
+
+#### Example 2:
+
+#### 1. Mr Lim is a sole-proprietor of businesses U and V, and a partner of partnership W.
+
+#### 2. The accounting year end of his businesses is 31 Dec.
+
+#### 3. Mr Lim has unabsorbed CA and loss for YA 2018 from all his businesses.
+
+#### 4. Mr Lim wished to claim qualifying child relief in respect of his child.
+
+#### 5. Mr Lim has elected to carry-back his unabsorbed CA and loss for YA 2018 to his YA 2017
+
+#### assessments.
+
+
+#### Annex G (continued)
+
+### $ $ $ $
+
+```
+Trade income
+```
+```
+Sole-proprietorship U - Adj profit before CA 9 1,600 9 1,600
+```
+```
+Less: Current CA (35,000) 5 6,600 (35,000) 5 6,600
+```
+```
+Sole-proprietorship V- Adj profit before CA 65,000 65,000
+```
+```
+Less: CA b/f (20,000) (20,000)
+```
+```
+Current CA (25,000) 20,000 (25,000) 20,000
+```
+```
+Partnership W – Share of adj profit before CA 0 0
+```
+```
+Less: Share of current CA (12,000) (12,000) (12,000) (12,000)
+```
+```
+6 4,600 6 4,600
+```
+```
+Trade loss
+```
+```
+Partnership W – Share of adjusted loss (6,000) (6,000)
+```
+```
+5 8,600 5 8,600
+```
+```
+Other income
+```
+```
+Employment 40,000 40,000
+```
+```
+Rental 18,000 18,000
+```
+```
+11 6,600 11 6,600
+```
+Less: CA/Loss carried back from YA 20 (^18) - (^100 ,^0 00)^
+Assessable income 11 6,600 16,600
+Less: Personal reliefs
+- Earned income 1,000 (^) 1,000
+
+- Child 4,000 4,000
+- CPF 8,000 13,000 8,000^ 13,000
+
+```
+Chargeable income 10 3,600 3,600
+```
+```
+Tax thereon 5, 56 4.00 0.00
+```
+```
+Less: Tax previously assessed 5, 56 4.00
+Tax to be refunded (5, 56 4.00)
+```
+### (before carry-back is allowed) (with carry-back allowed)
+
+##### YA 20 17
+
+```
+Original Assessment Revised Assessment
+```
+
+### Annex H – Illustration of deduction and restriction of capital allowances and trade losses of partners of an LLP
+
+#### Partnership S&T is an LLP and has two partners (i.e. Mr Song and Topmost Pte Ltd). The LLP’s accounting year end is 31 December. Both
+
+#### partners have claimed for carry-back relief. The details of the LLP for YA 20 17 and 20 18 are:
+
+(^) Mr Song (Example 1) Topmost Pte Ltd (Example 2)
+(A) Profit sharing ratio (^) 30% 70%
+
+#### (B) Contributed capital as at:
+
+#### a) 31.12.16
+
+#### b) 31.12.17
+
+#### $20,000
+
+#### $60,000
+
+#### $120,000
+
+#### $175,000
+
+#### (C) Adj profit/loss of LLP for y/e:
+
+#### a) 31.12.16 - Profit $ 93,000
+
+#### b) 31.12.17 - Loss $120,000
+
+#### $27,900
+
+#### ($36,000)
+
+#### $ 65,100
+
+#### ($84,000)
+
+#### (D) CA for:
+
+#### a) YA 2017 - $180,000
+
+#### b) YA 2018 - $150,000
+
+#### $54,000
+
+#### $45,000
+
+#### $126,000
+
+#### $105,000
+
+#### (E) CA & losses
+
+- Cumulative
+
+#### YA 20 17 YA 20 18 YA 20 17 YA 20 18
+
+#### $54,000 $135,000 $126,000 $315,000
+
+#### (F) Contributed capital as at end of
+
+#### basis period
+
+#### $20,000 $60,000 $120,000 $175,000
+
+#### (G) Excess of cumulative CA and
+
+#### losses over contributed capital
+
+#### [(E)-(F)]
+
+#### $34,000 $85,000 $6,000 $140,000
+
+#### (H) Past relevant deduction
+
+#### CA - $20,000
+
+#### Loss - $ 0
+
+#### $20,000
+
+#### CA - $60,000
+
+#### Loss - $ 0
+
+#### $60,000
+
+#### CA - $60,900
+
+#### Loss - $ 0
+
+#### $60,900
+
+#### CA - $165,900
+
+#### Loss - $ 1,175 (i.e. 9,100 - 7,925)
+
+#### $167,075
+
+#### :
+
+
+#### Annex H (continued)
+
+#### Example 1 - Tax Computations of Mr Song for YAs 20 17 and 20 18
+
+(^) YA 20 18
+$ $ $
+Trade
+
+- Sole-proprietorship business- Adjusted profit before CA
+    Less: CA
+
+##### 0
+
+##### (35,000)
+
+##### (35,000)
+
+```
+Restrict
+```
+- LLP – Adjusted profit before CA
+    Less: CA b/f
+    : Current CA
+
+##### 0
+
+##### (6,100)
+
+##### (45,000)
+
+##### (6,100)
+
+##### (33,900)
+
+##### (11,100)
+
+##### (75,000)
+
+```
+Employment income 38,000
+Rental Income 22,000
+(15,000)
+Less: CA carried back to YA 20 17 15,000
+Unabsorbed CA c/f NIL
+```
+```
+Unabsorbed LLP CA for YA 20 18 c/f (11,100)
+```
+```
+Sole-proprietorship business – Adjusted loss
+(70,000)
+Add: LLP adjusted loss 0 (36,000)
+(70,000)
+Less: Loss carried back to YA 20 17 70,000
+Unabsorbed loss for y/e 31.12. 17 from sole-proprietorship c/f NIL
+Add: Unabsorbed LLP loss for y/e 31.12. 17 c/f (36,000)
+Total unabsorbed losses c/f (36,000)
+```
+```
+Chargeable Income NIL
+Tax payable NIL
+```
+```
+Cumulative LLP CA & losses (54,000 + 45,000 + 36,000) (135,000)
+Less: Deduct from LLP profit in YA 20 17 27,900
+Deduct from other sources in YAs 20 17 & 20 18 60,000
+LLP CA & losses c/f:
+```
+- CA for YA 2018 c/f (11,100)
+- Loss for y/e 31.12.2017 (36,000) (47,100)
+
+```
+Summary of relevant deductions allowed
+in respect of:
+(i) YA 2017 LLP CA = $20,000
+```
+```
+(ii) YA 2018 LLP CA
+```
+- deduct from YA 2018 income
+$60,000 x (6,100+33,900)/75,000 = $32,000
+- deduct from YA 2017 income
+$15,000 x (6,100+33,900)/75,000 = $8,000
+$60,000
+
+
+#### Annex H (continued)
+
+### YA20 17
+
+```
+Original Assessment Revised Assessment
+(before carry-back is allowed) (after carry-back is allowed)
+$ $ $ $ $ $
+Trade
+```
+- Sole-proprietorship biz - Adj profit before CA
+Less: Current year CA
+
+##### 170,000
+
+##### (15,000)
+
+##### 155,000
+
+```
+Restrict
+170,000
+(15,000)
+155,000
+```
+```
+Restrict
+```
+- LLP – Adjusted profit before CA
+    Less: Current year CA
+
+##### 27,900
+
+##### (54,000)
+
+##### (20,000)
+
+##### (6,100)
+
+##### 27,900
+
+##### (54,000)
+
+##### (20,000)
+
+##### (6,100)
+
+##### 135,000 135,000
+
+```
+Employment income 48,000 48,000
+Rental Income 30,000 30,000
+213,000 213,000
+Less : CA carried back from YA 2018 (15,000)
+Loss carried back from YA 2018 (70,000) (85,000)
+213,000 128,000
+Less: Personal Relief
+```
+- Earned Income 1,000 1,000
+- Spouse 2,000 2,000
+- Child 4,000 4,000
+- CPF 9,600 16,600 9,600 16,600
+Chargeable Income 196,400 111,400
+
+```
+Unabsorbed LLP CA for YA 2017 c/f (6,100) (6,100)
+```
+```
+Tax payable 20,002.00 6,461.00
+Less: Tax previously assessed 20,002.00
+Tax to be refunded (13,541.00)
+```
+(^)
+Cumulative LLP CA & losses (54,000)
+Less: Deduct from LLP profit in YA 2017 27,900
+Deduct from other sources in YA 2017 20,000
+LLP CA & losses c/f:
+
+- Unabsorbed CA for YA 2017 (6,100)
+- Unabsorbed loss for y/e 31.12.2016 0 (6,100)
+
+
+#### Annex H (continued)
+
+#### Example 2 - Tax Computations of Topmost Pte Ltd for YAs 20 18 and 20 17
+
+(^) YA 20 18
+$ $ $
+Trade income
+
+- Topmost Pte Ltd’s operations - Adjusted profit before CA
+Less: Current year CA
+
+##### 0
+
+##### (55,000)
+
+##### (55,000)
+
+```
+Restrict
+```
+- LLP - Adjusted profit before CA
+Less: Current CA
+
+##### 0
+
+##### (105,000)
+
+##### (105,000)
+
+##### (160,000)
+
+Interest income 15,000
+Rental Income 72,000
+(73,000)
+Less: CA carried back to YA 20 17 73,000
+Unabsorbed CA for YA 2017 c/f NIL
+
+Trade loss
+Topmost Pte Ltd’s operations – Adjusted loss
+(200,000)
+Add: LLP current loss (9,100) (74,900)
+(209,100)
+Less: Loss carried back to YA 20 17 27,000
+Unabsorbed loss for y/e 31.12. 17 c/f [i.e. LLP loss $7,925 (i.e. 9,100 - 1,175) and
+trade loss $174,175 (i.e. 200,000 - {27,000-1,175})]
+
+##### (182,100)
+
+Add: Unabsorbed LLP loss for y/e 31.12. 17 c/f (74,900)
+Total unabsorbed losses c/f (257,000)
+
+Chargeable Income (^) NIL
+Tax payable NIL
+Cumulative LLP CA & losses (126,000 + 105,000 + 84,000) (315,000)
+Less: Deduct from LLP profit in YA 20 17 65,100
+Deduct from other sources in YAs 20 17 & 20 18 167,075
+LLP CA & losses c/f:
+
+- CA for YA 20 18 0
+- Unabsorbed loss for y/e 31.12.2017 (9,100 – 1,175) c/f (7,925)
+- Unabsorbed loss for y/e 31.12.2017 c/f (74,900) (82,825)
+
+```
+Summary of relevant deductions
+allowed in respect of:
+(i) YA 2017 LLP CA = $60,900
+```
+```
+(ii) YA 2018 LLPCA
+```
+- against YA 2018 income
+$87,000 x 105,000/160,000 = $57,094
+- against YA 2017 income
+$73,000 x 105,000/160,000 = $47,906
+
+```
+(ii) YA 2018 LLP loss
+```
+- against YA 2018 income
+$27,000 x 9,100/209,100 = $1,1 75
+$167,075
+
+
+#### Annex H (continued)
+
+### YA 20 17
+
+```
+Original Assessment Revised Assessment
+(before carry-back is allowed) (after carry-back is allowed)
+$ $ $ $ $ $
+Trade income
+```
+- Topmost Pte Ltd’s operations – Adj profit before CA
+Less: Current year CA
+
+##### 300,000
+
+##### (50,000)
+
+##### 250,000
+
+```
+Restrict
+300,000
+(50,000)
+250,000
+```
+```
+Restrict
+```
+- LLP – Adj profit before CA
+    Less: Current CA
+
+##### 65,100
+
+##### (126,000)
+
+##### (60,900)
+
+##### 65,100
+
+##### (126,000)
+
+##### (60,900)
+
+##### 189,100 189,100
+
+```
+Interest income 20,000 20,000
+Rental Income 60,000 60,000
+269,100 269,100
+Less : CA carried back from YA 2018 (73,000)
+Loss carried back from YA 2018 (27,000) (100,000)
+Chargeable income (before deducting exempt
+amount)
+```
+##### 269,100 169,100
+
+```
+Less: Exempt amount^1 (137,050) (87,050)
+Chargeable Income 132,050 82,050
+```
+```
+Tax payable 22,448.50 13,948.50
+```
+### Less: 50% CIT rebate (capped at $25,000) (11,224.25) (6,974.25)
+
+```
+Net tax payable 11,224.25 6,974.25
+Less: Tax previously assessed (11,224.25)
+Tax to be refunded (4,250.00)
+```
+Cumulative LLP CA & losses (126,000) (^)
+Less: Deduct from LLP profit in YA 2017 65,100 (^)
+Deduct from other sources in YA 2017 60,900 (^)
+LLP CA & losses c/f: (^)
+- Unabsorbed CA for YA 2017 c/f (^0)
+- Unabsorbed loss for y/e 31.12.2016 c/f (^0                  0)
+
+1. Computation of exempt amount of normal chargeable
+    income:
+
+```
+On the first $10,000 (75% of the income) 7,500 7,500
+On the next $259,100 (50% of the income) 129,550
+On the next $159,100 (50% of the income) 79,550
+Total exempt income 137,050 87,050
+```
+
