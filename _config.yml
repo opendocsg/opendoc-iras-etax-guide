@@ -1,11 +1,12 @@
 title: IRAS e-Tax Guide
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@s3pdf
 repository: opendocsg/opendoc-iras-etax-guide
 plugins:
   - jekyll-include-cache
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+offline: false
 google_analytics:  #----> Optional, Google analytics ID
 styling_options:
   primary_brand_color: '#22A7F0'  #----> Optional, theme color
